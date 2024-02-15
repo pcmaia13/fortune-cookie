@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(119, 119, 175);
+
+}
+
+.imgcookie {
+    align-items: center;
+
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.title {
+    align-items: center;
+    font-size: 150%;
+    margin-left: 39%;
+    height: 10px;
+}
+
+.frase  {
+    text-align: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 35%;
+    width: 30%;
+
+
+}
